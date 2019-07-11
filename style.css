@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+}
+
+body {
+    background: url(https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1307&q=80) center center fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    color: rgba(255, 255, 255, 0.514);
+    margin-top: 300px;
+}
+
+button {
+    margin-top: 400px;
+}
+
+.btn {
+    /* margin-left: 100px;
+    margin-top: 10px; */
+    background: orange;
+    border: none;
+    color: black;
+    /* justify-content: center; */
+}
+
+
+/* 
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
+
+hr {
+    margin-top: 400px;
+    margin-bottom: 0px;
+    background-color: orange;
+    height: 1px;
+    width: 200px;
+}
+
+.container {
+    align-content: center;
+}
